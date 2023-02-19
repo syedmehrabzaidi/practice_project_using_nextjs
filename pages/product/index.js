@@ -5,7 +5,7 @@ export default function product({ data }) {
     console.log(data)
     return (
      <div>
-        <h2>product PAGE</h2>
+       <div > <h2 >product PAGE</h2></div>
 
     <ul>
         <li><Link href="/">Home</Link></li>
